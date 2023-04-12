@@ -49,7 +49,8 @@ The program provides a simple text-based menu with the following options:
 1. Carga de ciudades y distancias directas (Load cities and direct distances)
 2. Listado de ciudades contiguas (List of contiguous cities)
 3. Distancia y camino entre 2 ciudades (Distance and path between 2 cities)
-4. Salir (Exit)
+4. Recorrido entre ciudades (Path between cities)
+5. Salir (Exit)
 
 Use the menu to navigate through the program and perform the desired actions.
 
