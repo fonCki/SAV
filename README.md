@@ -1,7 +1,8 @@
 # SAV (Shortest Path Among Cities) - Pascal Implementation
 
+<p align="justify">
 Welcome to the first upload of the "Coding Time Capsule", a nostalgic collection of my own code from the 90s and early 2000s. SAV is a DOS-based Pascal program that calculates the shortest path between cities using the Floyd-Warshall algorithm. This program, developed back in 2003, showcases the power of early programming languages like Pascal in solving complex problems. The code is beautifully written and organized, demonstrating the elegance and simplicity of the past while still being fully functional and effective. Please note that the program is written in Spanish.
-
+</p>
 ![SAV Main Menu](images/SAV-Code.jpeg)
 
 ## Table of Contents
@@ -11,7 +12,6 @@ Welcome to the first upload of the "Coding Time Capsule", a nostalgic collection
   - [Prerequisites](#prerequisites)
   - [Running the Program](#running-the-program)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
 
 ## Features
@@ -54,4 +54,6 @@ Use the menu to navigate through the program and perform the desired actions.
 
 ## Acknowledgments
 
+<p align="justify">
 - A special thank you to the creators of Pascal, especially Anders Hejlsberg, the creator of Turbo Borland Pascal, as well as the Free Pascal Compiler and DOSBox for providing the tools to run and experience this nostalgic program.
+</p>
